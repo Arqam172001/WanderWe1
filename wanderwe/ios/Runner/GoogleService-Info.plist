@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>885101230072-8gfc26lq6787bu3mv6n9ebmjlv8k0det.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.885101230072-8gfc26lq6787bu3mv6n9ebmjlv8k0det</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>885101230072-egurrkl5km6blu3c3dh5m2s7i43bk03o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHDJhvuWHiPJYNEIwuvj7ERVJFrgjdLqc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>885101230072</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.wanderwe</string>
+	<key>PROJECT_ID</key>
+	<string>wanderwe-83950</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wanderwe-83950.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:885101230072:ios:fde852fcf653dbdf6c480d</string>
+</dict>
+</plist>

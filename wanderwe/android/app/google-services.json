@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "885101230072",
+    "project_id": "wanderwe-83950",
+    "storage_bucket": "wanderwe-83950.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885101230072:android:6476123db3cc28b46c480d",
+        "android_client_info": {
+          "package_name": "com.mycompany.wanderwe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885101230072-egurrkl5km6blu3c3dh5m2s7i43bk03o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.wanderwe",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "885101230072-hkjeuqcp4ihpi23kr6curvgbdlfccr05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-3AmRQ88TUvCFFMK2PPS72XYtHCfGO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885101230072-hkjeuqcp4ihpi23kr6curvgbdlfccr05.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "885101230072-8gfc26lq6787bu3mv6n9ebmjlv8k0det.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.wanderwe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
